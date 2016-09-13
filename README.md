@@ -6,7 +6,7 @@ There is no user interface right now, only the definitions and methods.
 This implementation is intended for educational purposes, and should not be used in any significant way.
 
 # Description
-NTRUkeygen/encrypt/decrypt.java: key generation, encryption and decryption libraries.
+NTRUkeygen/encrypt/decrypt.java: key generation, encryption and decryption libraries. Right now, keys are generated randomly using the standard Java Random library.
 
 ConvPoly.java: convolution polynomial definitions and methods used in NTRU.
 
